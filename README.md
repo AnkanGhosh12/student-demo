@@ -1,4 +1,4 @@
 # student-demo
 This is my 1st Repository.
 <br>
-Author-ANKAN
+Author - <s>Ankan</s>
